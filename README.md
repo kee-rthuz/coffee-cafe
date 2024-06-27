@@ -1,7 +1,7 @@
 ### Coffee Cafe
 Coffee Cafe is a modern, responsive web application for a premium coffee shop, built with React and styled using Tailwind CSS.
 
-![Coffee Cafe Homepage](Screenshot%20from%202024-06-26%2016-21-32.png)
+![Coffee Cafe Homepage](coffee_cafe/Screenshot%20from%202024-06-26%2016-21-32.png)
 
 
 ##### Project Overview
